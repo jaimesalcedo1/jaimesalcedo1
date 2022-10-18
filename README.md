@@ -3,7 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 16 September 2022 - To: 16 October 2022
+
+Total Time: 35 mins
+
+Kotlin           27 mins         ███████████████████▒░░░░░   77.22 %
+GitIgnore file   8 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.73 %
+XML              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->

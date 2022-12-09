@@ -3,16 +3,15 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 November 2022 - To: 06 December 2022
+From: 07 November 2022 - To: 07 December 2022
 
-Total Time: 1 hr 44 mins
+Total Time: 1 hr 2 mins
 
-Java                   31 mins         ███████▒░░░░░░░░░░░░░░░░░   29.83 %
-XML                    30 mins         ███████▒░░░░░░░░░░░░░░░░░   29.45 %
-Kotlin                 26 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.39 %
-GitIgnore file         12 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.05 %
-Properties             3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 %
-Groovy                 0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Kotlin           26 mins         ██████████▓░░░░░░░░░░░░░░   42.35 %
+XML              17 mins         ███████░░░░░░░░░░░░░░░░░░   27.48 %
+Java             13 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.32 %
+Properties       3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.07 %
+GitIgnore file   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 %
 ```
 
 <!--END_SECTION:waka-->

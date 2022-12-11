@@ -3,15 +3,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 08 November 2022 - To: 08 December 2022
+From: 09 November 2022 - To: 09 December 2022
 
-Total Time: 59 mins
+Total Time: 45 mins
 
-Kotlin           26 mins         ███████████▒░░░░░░░░░░░░░   44.76 %
-Java             13 mins         ██████░░░░░░░░░░░░░░░░░░░   23.59 %
-XML              13 mins         ██████░░░░░░░░░░░░░░░░░░░   23.36 %
-Properties       3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.36 %
-GitIgnore file   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
+Kotlin           26 mins         ██████████████▓░░░░░░░░░░   58.40 %
+Java             13 mins         ███████▓░░░░░░░░░░░░░░░░░   30.77 %
+Properties       3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.99 %
+GitIgnore file   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 %
 ```
 
 <!--END_SECTION:waka-->

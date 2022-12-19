@@ -3,13 +3,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 November 2022 - To: 16 December 2022
-
-Total Time: 31 mins
-
-Kotlin           26 mins         █████████████████████░░░░   84.36 %
-Properties       3 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.10 %
-GitIgnore file   1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.54 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

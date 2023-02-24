@@ -3,12 +3,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 22 January 2023 - To: 21 February 2023
+From: 23 January 2023 - To: 22 February 2023
 
-Total Time: 42 mins
+Total Time: 24 mins
 
-XML    29 mins         █████████████████▓░░░░░░░   70.93 %
-Java   12 mins         ███████▒░░░░░░░░░░░░░░░░░   29.07 %
+XML    20 mins         █████████████████████░░░░   84.12 %
+Java   3 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.88 %
 ```
 
 <!--END_SECTION:waka-->

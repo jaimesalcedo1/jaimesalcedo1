@@ -3,15 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 March 2023 - To: 27 April 2023
+From: 29 March 2023 - To: 28 April 2023
 
-Total Time: 1 hr 6 mins
+Total Time: 9 mins
 
-CSV/TSV          35 mins         █████████████▒░░░░░░░░░░░   53.56 %
-GitIgnore file   14 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.60 %
-Kotlin           9 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.82 %
-Markdown         6 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.32 %
-IDEA_MODULE      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
+CSV/TSV       7 mins          ████████████████████░░░░░   79.74 %
+Kotlin        1 min           ████░░░░░░░░░░░░░░░░░░░░░   15.35 %
+IDEA_MODULE   0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.91 %
 ```
 
 <!--END_SECTION:waka-->

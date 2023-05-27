@@ -3,13 +3,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 24 April 2023 - To: 24 May 2023
+From: 25 April 2023 - To: 25 May 2023
 
-Total Time: 21 mins
+Total Time: 12 mins
 
-CSV/TSV       19 mins         ██████████████████████▓░░   91.32 %
-Kotlin        1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.58 %
-IDEA_MODULE   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
+CSV/TSV   12 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->

@@ -3,14 +3,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 August 2023 - To: 18 September 2023
+From: 20 August 2023 - To: 19 September 2023
 
-Total Time: 2 hrs 24 mins
+Total Time: 4 hrs 27 mins
 
-Java             2 hrs 22 mins   ████████████████████████▓   98.71 %
-XML              1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
-Ezhil            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Java             4 hrs 25 mins   ████████████████████████▓   99.15 %
+XML              1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+CLASS            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Ezhil            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
